@@ -1,0 +1,3 @@
+pim_mag_ajax_endpoint:
+    path:     /admin/backend-demo
+    defaults:  { _controller: PimMagBundle:Backend:testing }
